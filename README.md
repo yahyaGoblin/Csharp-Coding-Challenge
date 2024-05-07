@@ -1,1 +1,2 @@
-# Coding challenge
+# Csharp-Daily-Coding-Challenge
+Welcome to my C# Daily Coding Challenge Repository! Here, I'm on a mission to become a C# coding ninja. 🚀 I've been learning from YouTube tutorials, getting advice from ChatGPT (yes, an AI!), and taking courses on Udemy. Oh, and I've dabbled a bit in game development too! 🎮 This repository is where I track my daily progress as I tackle coding challenges and conquer the world of C# programming. Join me on this exciting journey of self-learning and skill-building! 💻
